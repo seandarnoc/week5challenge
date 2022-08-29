@@ -32,6 +32,8 @@ THEN the saved events persist
 starter code Mock-Up
 ![start code mock-up](images\05-third-party-apis-homework-demo.gif)
 
+
+
 git pages URL https://seandarnoc.github.io/week5challenge/
 
 ![image](https://user-images.githubusercontent.com/102472990/187103680-2d48a232-b253-4d46-8653-1db36fab8845.png)
